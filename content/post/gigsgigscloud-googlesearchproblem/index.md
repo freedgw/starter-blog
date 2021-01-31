@@ -1,23 +1,39 @@
-+++
-author = "Will"
-title = "gigsgigscloud美西GIA无法使用谷歌搜索问题"
-date = "2021-01-31"
-description = "How to configure ipv6 on a  Centos 7 vps"
-tags = [
-    "vps",
-    "google search",
-    "ipv6",
-]
-categories = [
-    "vps",
-    "linux",
-    "ipv6",
-]
-image="gigs.png"
-comments = "true"
-+++
-<!--more-->
+---
+title = 'gigsgigscloud美西GIA无法使用谷歌搜索问题'
+subtitle: 'How to configure ipv6 on a  Centos 7 vps'
+summary: ipv6 configuration.
+authors:
+- Will
+tags:
+- vps
+- google search
+- ipv6
+categories:
+- linux
+- vps
+- gigsgigscloud
+date: "2021-01-28T00:00:00Z"
+lastmod: "2021-01-31T23:15:00Z"
+featured: false
+draft: false
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
 # 问题
 
 gigsgigscloud美西GIA从昨天开始以**154.3**开头的某段ip使用谷歌搜索后会出现403界面。
