@@ -1,19 +1,17 @@
 ---
-title = 'gigsgigscloud美西GIA无法使用谷歌搜索问题'
+title: 'gigsgigscloud美西GIA无法使用谷歌搜索问题'
 subtitle: 'How to configure ipv6 on a  Centos 7 vps'
-summary: ipv6 configuration.
+summary: ipv6 configuration
 authors:
 - Will
 tags:
 - vps
-- google search
-- ipv6
+- 开源
 categories:
-- linux
-- vps
-- gigsgigscloud
-date: "2021-01-28T00:00:00Z"
-lastmod: "2021-01-31T23:15:00Z"
+- Demo
+- 教程
+date: "2016-04-20T00:00:00Z"
+lastmod: "2019-04-17T00:00:00Z"
 featured: false
 draft: false
 
