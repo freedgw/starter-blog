@@ -22,7 +22,6 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   focal_point: ""
-  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
