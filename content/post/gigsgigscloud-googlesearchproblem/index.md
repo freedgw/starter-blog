@@ -21,17 +21,9 @@ draft: false
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  caption: ""
-  focal_point: ""
-  focal_point: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+  placement: 3
 ---
+
 # 问题
 
 gigsgigscloud美西GIA从昨天开始以**154.3**开头的某段ip使用谷歌搜索后会出现403界面。
