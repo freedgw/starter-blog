@@ -1,28 +1,31 @@
 ---
-title: 'gigsgigscloud美西GIA无法使用谷歌搜索问题'
-subtitle: 'How to configure ipv6 on a  Centos 7 vps'
-summary: ipv6 configuration
+title: Display Jupyter Notebooks with Academic
+subtitle: Learn how to blog in Academic using Jupyter notebooks
+summary: Learn how to blog in Academic using Jupyter notebooks
 authors:
-- Will
-tags:
-- vps
-- ipv6
-- google search
-categories:
-- demo
-- 教程
-date: "2021-01-29T00:00:00Z"
-lastmod: "2021-01-31T23:30:00Z"
+- admin
+tags: []
+categories: []
+date: "2019-02-05T00:00:00Z"
+lastMod: "2019-09-05T00:00:00Z"
 featured: false
 draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
-# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  placement: 3
+  caption: ""
+  focal_point: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
+
 
 # 问题
 
