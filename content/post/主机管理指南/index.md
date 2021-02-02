@@ -2,7 +2,7 @@
 title: VPS Management Guides
 subtitle: Some basic skills to manage linux servers
 summary: Some basic skills to manage linux servers
-- Will
+author: Will
 tags: 
 - vps
 - linux
