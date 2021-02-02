@@ -10,8 +10,6 @@ categories:
 - vps
 - linux
 date: "2021-02-01"
-featured: false
-draft: false
 ---
 
 # 主机管理指南
