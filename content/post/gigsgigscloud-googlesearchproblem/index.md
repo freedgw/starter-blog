@@ -1,13 +1,16 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+title: gigsgigscloud美西GIA无法使用谷歌搜索问题
+subtitle: 给gigsgigscloud的vps配置HE的ipv6解决ip被谷歌拉黑的困境
 authors:
-- admin
-tags: []
-categories: []
-date: "2019-02-05T00:00:00Z"
-lastMod: "2019-09-05T00:00:00Z"
+- Will
+tags: 
+- vps
+- gigsgigscloud
+-linux
+categories: 
+- ipv6
+- linux
+date: "2021-02-01"
 featured: false
 draft: false
 
