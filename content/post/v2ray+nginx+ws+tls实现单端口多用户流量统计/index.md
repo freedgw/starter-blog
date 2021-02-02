@@ -1,25 +1,20 @@
-+++
-author = "Will"
-title = "v2ray+nginx+ws+tls's single port with multiple users including traffic statistics"
-date = "2020-09-19"
-description = "How to depoly v2ray+nginx+ws+tls configuration of a single port but multiple users with traffic statistics "
-tags = [
-    "vps",
-    "bash",
-    "v2ray",
-]
-categories = [
-    "vps",
-    "linux",
-    "v2ray",
-]
-image="v2ray.jpg"
-comments = "true"
-+++
-<!--more-->
-# v2ray+nginx+ws+tls实现单端口多用户流量统计
+---
+title: v2ray+nginx+ws+tls's single port with multiple users including traffic statistics
+subtitle: How to depoly v2ray+nginx+ws+tls configuration of a single port but multiple users with traffic statistics
+summary: How to depoly v2ray+nginx+ws+tls configuration of a single port but multiple users with traffic statistics
+author: Will
+tags: 
+- vps
+- linux
+- v2ray
+categories: 
+- vps
+- linux
+- v2ray
+date: "2021-02-02"
+---
 
-本文重在v2ray+nginx+ws+tls单端口多用户并且带有流量查询功能的配置，因此对于v2ray+nginx+ws+tls的安装直接使用了wulabing大佬的一键脚本。故之后将基于wulabing一键脚本得到的v2ray配置文件config.json进行说明。
+**本文重在v2ray+nginx+ws+tls单端口多用户并且带有流量查询功能的配置，因此对于v2ray+nginx+ws+tls的安装直接使用了wulabing大佬的一键脚本。故之后将基于wulabing一键脚本得到的v2ray配置文件config.json进行说明。**
 
 ssh客户端：FinalShell
 
