@@ -1,6 +1,7 @@
 ---
 title: gigsgigscloud美西GIA无法使用谷歌搜索问题
 subtitle: 给gigsgigscloud的vps配置HE的ipv6解决ip被谷歌拉黑的困境
+summary: 给gigsgigscloud的vps配置HE的ipv6解决ip被谷歌拉黑的困境
 authors:
 - Will
 tags: 
