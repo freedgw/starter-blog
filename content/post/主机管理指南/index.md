@@ -1,19 +1,19 @@
-+++
-author = "Will"
-title = "VPS Management Guides"
-date = "2020-09-11"
-description = "Some basic skills to manage linux servers"
-tags = [
-    "vps",
-    "bash",
-]
-categories = [
-    "vps",
-    "linux",
-]
-image="kevin-horvat-Pyjp2zmxuLk-unsplash.jpg"
-+++
-<!--more-->
+---
+title: VPS Management Guides
+subtitle: Some basic skills to manage linux servers
+summary: Some basic skills to manage linux servers
+- Will
+tags: 
+- vps
+- linux
+categories: 
+- vps
+- linux
+date: "2021-02-01"
+featured: false
+draft: false
+---
+
 # 主机管理指南
 
 ## 1. v2ray+nginx+ws+tls一键脚本
