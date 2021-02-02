@@ -6,13 +6,13 @@ widget: starter.blog.intro
 headless: true
 
 # Order that this section will appear in.
-weight: 10
+weight: 5
 
 title: ✏️ Will's Blog
 subtitle: 'For curiosity and passion'
 
 design:
   background:
-    color: '#090a0b'
+    color: '#48D1CC'
     text_color_light: true
 ---
