@@ -6,7 +6,7 @@ authors:
 tags: 
 - vps
 - gigsgigscloud
--linux
+- linux
 categories: 
 - ipv6
 - linux
