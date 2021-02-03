@@ -13,6 +13,6 @@ subtitle: 'For curiosity and passion'
 
 design:
   background:
-    color: '#00FFFFFF'
+    color: '#FFFFFF'
     text_color_light: true
 ---
